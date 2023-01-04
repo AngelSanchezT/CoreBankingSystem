@@ -1,4 +1,4 @@
-package com.angelsanchezt.baking.core;
+package com.angelsanchezt.banking.core;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

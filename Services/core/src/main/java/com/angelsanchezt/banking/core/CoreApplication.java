@@ -1,4 +1,4 @@
-package com.angelsanchezt.baking.core;
+package com.angelsanchezt.banking.core;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
