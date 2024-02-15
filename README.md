@@ -27,6 +27,7 @@
     <li>
       <a href="#about-the-project">Sobre el Projecto</a>
       <ul>
+        <li><a href="#ejercicio-por-realizar">Ejercicio por realizar</a></li>
         <li><a href="#built-with">Stack Tecnológico</a></li>
       </ul>
     </li>
@@ -55,7 +56,8 @@ Una compañía requiere diseñar un pequeño sistema bancario que soporte de car
   * Transferencias a cuentas de otros clientes.
   * Consulta de movimientos.
 
-# Ejercicio por realizar
+<!-- EJERCICIO POR REALIZAR -->
+## Ejercicio por realizar
 
 Desarrollar el sistema bancario dando cumplimiento a las características mencionadas en la contextualización del problema. En la entrevista tendrá un espacio de 1 hora para sustentar e indicar como resolvió cada uno de los siguientes puntos:
 
