@@ -116,4 +116,4 @@ Contiene los artefactos del código fuente de los servicios a desplegar.
 Contiene los artefactos de documentación del sistema desarrollado.
 
 ### Tareas
-- [] Definir el formato de Word para el Documento de Arquitectura de Software
+- [ ] Definir el formato de Word para el Documento de Arquitectura de Software
