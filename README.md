@@ -55,6 +55,15 @@ Una compañía requiere diseñar un pequeño sistema bancario que soporte de car
   * Transferencias a cuentas de otros clientes.
   * Consulta de movimientos.
 
+# Ejercicio por realizar
+
+Desarrollar el sistema bancario dando cumplimiento a las características mencionadas en la contextualización del problema. En la entrevista tendrá un espacio de 1 hora para sustentar e indicar como resolvió cada uno de los siguientes puntos:
+
+1. _Análisis y diseño_: Definición de los patrones y modelo de diseño que considere necesarios implementar en el desarrollo de la solución.
+2. _Stack tecnológico para desarrollo_: Lenguajes de programación seleccionados, el porqué de la elección y cuáles son las ventajas y desventajas de estos frente a la propuesta de solución planteada.
+3. _Estándares y buenas prácticas de desarrollo_: Estrategias usadas para garantizar la calidad de los artefactos de software desarrollados para la solución.
+4. _Aspectos adicionales_: Que aspectos adicionales considera necesarios aplicar para garantizar el que el desarrollo solvente la necesidad planteada en el contexto del problema.
+
 Los artefactos de la prueba están organizados de la siguiente forma:
 
 <!-- BUILT WITH -->
